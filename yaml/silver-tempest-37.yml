@@ -1,0 +1,103 @@
+---
+id: swsh12-37
+name: Wailmer
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '110'
+types:
+- Water
+evolvesTo:
+- Wailord
+attacks:
+- name: Gulp Down
+  cost:
+  - Water
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: Heal from this Pokémon the same amount of damage you did to your opponent's
+    Active Pokémon.
+- name: Wave Splash
+  cost:
+  - Water
+  - Water
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '60'
+  text: ''
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: swsh12
+  name: Silver Tempest
+  series: Sword & Shield
+  printedTotal: 195
+  total: 215
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: SIT
+  releaseDate: 2022/11/11
+  updatedAt: 2022/09/09 11:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12/symbol.png
+    logo: https://images.pokemontcg.io/swsh12/logo.png
+number: '37'
+artist: Jiro Sasumo
+rarity: Common
+flavorText: It shows off by spraying jets of seawater from the nostrils above its
+  eyes. It eats a solid ton of Wishiwashi every day.
+nationalPokedexNumbers:
+- 320
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh12/37.png
+  large: https://images.pokemontcg.io/swsh12/37_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12-37
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.03
+      mid: 0.15
+      high: 2.0
+      market: 0.1
+      directLow: 0.1
+    normal:
+      low: 0.01
+      mid: 0.09
+      high: 1.1
+      market: 0.04
+      directLow: 0.02
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12-37
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.03
+    lowPrice: 0.01
+    trendPrice: 0.02
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.11
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.11
+    lowPriceExPlus: 0.01
+    avg1: 0.02
+    avg7: 0.03
+    avg30: 0.03
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 0.13
+    reverseHoloAvg30: 0.12

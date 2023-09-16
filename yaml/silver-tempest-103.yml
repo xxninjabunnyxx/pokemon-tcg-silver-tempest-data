@@ -1,0 +1,87 @@
+---
+id: swsh12-103
+name: Zubat
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '40'
+types:
+- Darkness
+evolvesTo:
+- Golbat
+attacks:
+- name: Bite
+  cost:
+  - Darkness
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+set:
+  id: swsh12
+  name: Silver Tempest
+  series: Sword & Shield
+  printedTotal: 195
+  total: 215
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: SIT
+  releaseDate: 2022/11/11
+  updatedAt: 2022/09/09 11:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12/symbol.png
+    logo: https://images.pokemontcg.io/swsh12/logo.png
+number: '103'
+artist: Shigenori Negishi
+rarity: Common
+flavorText: It emits ultrasonic waves from its mouth to check its surroundings. Even
+  in tight caves, Zubat flies around with skill.
+nationalPokedexNumbers:
+- 41
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh12/103.png
+  large: https://images.pokemontcg.io/swsh12/103_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12-103
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.04
+      mid: 0.15
+      high: 1.13
+      market: 0.12
+      directLow: 0.1
+    normal:
+      low: 0.01
+      mid: 0.07
+      high: 1.1
+      market: 0.03
+      directLow: 0.03
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12-103
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.03
+    lowPrice: 0.01
+    trendPrice: 0.04
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.11
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.12
+    lowPriceExPlus: 0.01
+    avg1: 0.02
+    avg7: 0.04
+    avg30: 0.03
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 0.12
+    reverseHoloAvg30: 0.11

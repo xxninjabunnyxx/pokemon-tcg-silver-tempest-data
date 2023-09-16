@@ -1,0 +1,87 @@
+---
+id: swsh12-58
+name: Regieleki VMAX
+supertype: Pokémon
+subtypes:
+- VMAX
+hp: '310'
+types:
+- Lightning
+evolvesFrom: Regieleki V
+rules:
+- 'VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.'
+abilities:
+- name: Transistor
+  text: Your Basic Lightning Pokémon's attacks do 30 more damage to your opponent's
+    Active Pokémon (before applying Weakness and Resistance).
+  type: Ability
+attacks:
+- name: Max Thunder and Lightning
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '220'
+  text: During your next turn, this Pokémon can't attack.
+weaknesses:
+- type: Fighting
+  value: "×2"
+set:
+  id: swsh12
+  name: Silver Tempest
+  series: Sword & Shield
+  printedTotal: 195
+  total: 215
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: SIT
+  releaseDate: 2022/11/11
+  updatedAt: 2022/09/09 11:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12/symbol.png
+    logo: https://images.pokemontcg.io/swsh12/logo.png
+number: '58'
+artist: N-DESIGN Inc.
+rarity: Rare Holo VMAX
+nationalPokedexNumbers:
+- 894
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh12/58.png
+  large: https://images.pokemontcg.io/swsh12/58_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12-58
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 1.1
+      mid: 2.99
+      high: 182.0
+      market: 1.83
+      directLow: 1.97
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12-58
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 3.44
+    lowPrice: 1.8
+    trendPrice: 3.62
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 1.9
+    avg1: 3.5
+    avg7: 3.38
+    avg30: 3.48
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
